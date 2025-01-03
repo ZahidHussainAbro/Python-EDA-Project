@@ -1,2 +1,2 @@
 # Python-EDA-Project
-Exploratory Data Analysis
+Exploratory Data Analysis (Academic Project)
