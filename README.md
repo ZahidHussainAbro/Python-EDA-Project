@@ -5,6 +5,7 @@
 𝗨𝘀𝗲 𝗰𝗮𝘀𝗲: The data is taken randomly from a company with 200 samples
 
 𝗖𝗼𝗹𝘂𝗺𝗻𝘀: Email, Address, Avatar, Avg. Session Length, Time on App, Time on Website, Length of Membership, Yearly Amount Spent.
+𝗠𝗼𝗱𝗲𝗹: 𝗦𝗶𝗺𝗽𝗹𝗲 𝗟𝗶𝗻𝗲𝗮𝗿 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗶𝘀 𝘂𝘀𝗲𝗱
 
 𝗣𝗮𝗰𝗸𝗮𝗴𝗲𝘀 𝘂𝘀𝗲𝗱:
 import pandas as pd
